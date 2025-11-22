@@ -1,0 +1,8 @@
+{
+  "name": "Sketch Friends",
+  "description": "子どもの描いた絵に命を吹き込もう！スケッチが対話型の友達に進化する育成アプリ。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
